@@ -22,5 +22,9 @@ fill in the gaps.
 What we found is that there wasn't any correlation between weather and crime rate in Harris County. We think that it is due to 
 the temperature being fairly constant, eventhough Harris County much more extreme high temperatures than Baltimore.  
 
+![](pictures/Max_TempVCrime.png)
+
 We also did a test between crime rate and median household income and we found significance.  It appears that when the income 
 goes up, so does the crime rate mostly aggrevated assault. 
+
+![](pictures/HHIncome_V_Crime.png)
